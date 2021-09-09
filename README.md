@@ -5,11 +5,14 @@ My name is Rodion Kolovanov. I am studying at the Saint Petersburg Electrotechni
 ### Currently working on
 
 - SFML Games
-- Web-sites
+- Web Games
+- Web Sites
+- Python VK bot
 
 ### Currently learning
 
 - SFML library
+- Web (HTML, CSS, JS, nginx)
 
 ### I'm looking to collaborate with
 

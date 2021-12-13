@@ -2,6 +2,19 @@
 
 My name is Rodion Kolovanov. I am studying at the Saint Petersburg Electrotechnical University. I am a 3rd-year student of Applied Mathematics and Computer Science. I work in the JSC "Research & Engineering Center ETU".
 
+### Worked with
+
+- С++/C (STL, Boost, Qt, SFML, MPI)
+- Unreal Engine 4 (Blueprints, C++)
+- Python (NumPy, SumPy, Sage, MatPlotLib, Bot APIs and other)
+- Jupiter Notebook (Markdown, LaTeX)
+- Java (Gradle, Maven, JavaFX)
+- HTML, Pug, CSS, LESS (W3.CSS)
+- JavaScript, TypeScript (jQuery, jQuery UI, SocketIO, NodeJS, Express, PassportJS, Mocha, WebPack, GULP, Angular, React)
+- PHP, MySQL
+- R (Statistical analysis)
+- Git, GitLab, JIRA, DokuWiki
+
 ### Currently working on
 
 - Web Apps
@@ -21,18 +34,3 @@ My name is Rodion Kolovanov. I am studying at the Saint Petersburg Electrotechni
 Email: rodion.kolovanov@inbox.ru
 
 Tel: +7 (995) 233-41-65
-
-<!--
-**TheLifes08/TheLifes08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

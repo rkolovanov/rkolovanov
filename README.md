@@ -4,15 +4,12 @@ My name is Rodion Kolovanov. I am studying at the Saint Petersburg Electrotechni
 
 ### Currently working on
 
-- SFML Games
-- Web Games
-- Web Sites
+- Web Apps
 - Python VK bot
 
 ### Currently learning
 
-- SFML library
-- Web (HTML, CSS, JS, nginx)
+- Web (NodeJS, TypeScript, Angular, React)
 
 ### I'm looking to collaborate with
 
@@ -23,7 +20,7 @@ My name is Rodion Kolovanov. I am studying at the Saint Petersburg Electrotechni
 
 Email: rodion.kolovanov@inbox.ru
 
-Tel: +7 (902) 772-41-75
+Tel: +7 (995) 233-41-65
 
 <!--
 **TheLifes08/TheLifes08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

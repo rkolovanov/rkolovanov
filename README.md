@@ -13,6 +13,7 @@ My name is Rodion Kolovanov. I am studying at the Saint Petersburg Electrotechni
 - JavaScript, TypeScript (jQuery, jQuery UI, SocketIO, NodeJS, Express, PassportJS, Mocha, WebPack, GULP, Angular, React)
 - PHP, MySQL
 - R (Statistical analysis)
+- MASM
 - Git, GitLab, JIRA, DokuWiki
 
 ### Currently working on

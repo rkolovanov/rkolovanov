@@ -4,7 +4,7 @@ My name is Rodion Kolovanov. I am studying at the Saint Petersburg Electrotechni
 
 ### Worked with
 
-- С++/C (STL, Boost, Qt, SFML, MPI)
+- С++/C (STL, Boost, Qt, SFML, MPI, Qpid)
 - Unreal Engine 4 (Blueprints, C++)
 - Python (NumPy, SumPy, Sage, MatPlotLib, Bot APIs and other)
 - Jupiter Notebook (Markdown, LaTeX)

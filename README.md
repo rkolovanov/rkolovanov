@@ -10,7 +10,7 @@ My name is Rodion Kolovanov. I am studying at the Saint Petersburg Electrotechni
 - Jupiter Notebook (Markdown, LaTeX)
 - Java (Gradle, Maven, JavaFX)
 - HTML, Pug, CSS, LESS (W3.CSS)
-- JavaScript, TypeScript (jQuery, jQuery UI, SocketIO, NodeJS, Express, PassportJS, Mocha, WebPack, GULP, Angular, React)
+- JavaScript, TypeScript (jQuery, jQuery UI, SocketIO, NodeJS, Express, PassportJS, Mocha, WebPack, GULP, Angular, React, ImmunableJS, Redux)
 - PHP, MySQL
 - R (Statistical analysis)
 - MASM

@@ -4,26 +4,28 @@ My name is Rodion Kolovanov. I am studying at the Saint Petersburg Electrotechni
 
 ### Worked with
 
-- С++/C (STL, Boost, Qt, SFML, MPI, Qpid)
+- С++/C (STL, Boost, Qt, SFML, MPI, Qpid, GoogleTest, CMake)
 - Unreal Engine 4 (Blueprints, C++)
 - Python (NumPy, SumPy, Sage, MatPlotLib, Bot APIs and other)
 - Jupiter Notebook (Markdown, LaTeX)
 - Java (Gradle, Maven, JavaFX)
 - HTML, Pug, CSS, LESS (W3.CSS)
-- JavaScript, TypeScript (jQuery, jQuery UI, SocketIO, NodeJS, Express, PassportJS, Mocha, WebPack, GULP, Angular, React, ImmunableJS, Redux)
+- JavaScript, TypeScript (jQuery, jQuery UI, SocketIO, NodeJS, Express, PassportJS, Mocha, WebPack, GULP, Angular, React, ImmunableJS, Redux, MaterialUI)
 - PHP, MySQL
 - R (Statistical analysis)
-- MASM
-- Git, GitLab, JIRA, DokuWiki
+- MASM (Dos OS)
+- Git, GitLab, JIRA, Jenkins, DokuWiki
 
 ### Currently working on
 
-- Web Apps
+- C++ projects
+- Unreal Engine Apps
 - Python VK bot
 
 ### Currently learning
 
-- Web (NodeJS, TypeScript, Angular, React)
+- C++
+- Unreal Engine
 
 ### I'm looking to collaborate with
 

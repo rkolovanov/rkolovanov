@@ -1,6 +1,6 @@
 ### About me
 
-My name is Rodion Kolovanov. I am studying at the Saint Petersburg Electrotechnical University. I am a 3rd-year student of Applied Mathematics and Computer Science. I work in the JSC "Research & Engineering Center ETU".
+My name is Rodion Kolovanov. I study at the Saint Petersburg Electrotechnical University. I am a 3rd-year student of Applied Mathematics and Computer Science. I work in the JSC "Research & Engineering Center ETU".
 
 ### Worked with
 

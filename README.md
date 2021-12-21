@@ -18,13 +18,12 @@ My name is Rodion Kolovanov. I study at the Saint Petersburg Electrotechnical Un
 
 ### Currently working on
 
-- C++ projects
-- Unreal Engine Apps
+- C++ Projects
+- Unreal Engine Projects
 - Python VK bot
 
 ### Currently learning
 
-- C++
 - Unreal Engine
 
 ### I'm looking to collaborate with

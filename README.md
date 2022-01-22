@@ -4,7 +4,7 @@ My name is Rodion Kolovanov. I study at the Saint Petersburg Electrotechnical Un
 
 ### Worked with
 
-- С++/C (STL, Boost, Qt, SFML, MPI, Qpid, GoogleTest, CMake)
+- С++/C (STL, Boost, Qt, SFML, MPI, Qpid, GoogleTest, GoogleProtobuf, CMake)
 - Unreal Engine 4 (Blueprints, C++)
 - Python (NumPy, SumPy, Sage, MatPlotLib, Bot APIs and other)
 - Jupiter Notebook (Markdown, LaTeX)
@@ -14,17 +14,18 @@ My name is Rodion Kolovanov. I study at the Saint Petersburg Electrotechnical Un
 - PHP, MySQL
 - R (Statistical analysis)
 - MASM (Dos OS)
-- Git, GitLab, JIRA, Jenkins, DokuWiki
+- Git, GitLab, JIRA, Jenkins, SonarQube, DokuWiki
 
 ### Currently working on
 
 - C++ Projects
-- Unreal Engine Projects
-- Python VK bot
+- IoT Projects
+- Unreal Engine 4 Projects
 
 ### Currently learning
 
-- Unreal Engine
+- Unreal Engine 4
+- Google Protobuf
 
 ### I'm looking to collaborate with
 

@@ -6,7 +6,7 @@ My name is Rodion Kolovanov. I am a 3rd-year student of Applied Mathematics and 
 
 - С++/C (STL, Boost, Qt, SFML, MPI, Qpid, ZeroMQ, GoogleTest, GoogleProtobuf, CMake)
 - Unreal Engine 4 (Blueprints, C++)
-- Python (NumPy, SumPy, Sage, MatPlotLib, Bot APIs and other)
+- Python (NumPy, SumPy, SageMath, MatPlotLib, Bot APIs and other)
 - Jupiter Notebook (Markdown, LaTeX)
 - Java (Gradle, Maven, JavaFX)
 - HTML, Pug, CSS, LESS (W3.CSS)

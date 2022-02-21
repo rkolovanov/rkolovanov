@@ -31,7 +31,7 @@ My name is Rodion Kolovanov. I am a 3rd-year student of Applied Mathematics and 
 
 ### I'm looking to collaborate with
 
-- @WinCrash4
+- @u5ele55
 - @CmmSheparD
 
 ### How to reach me

@@ -16,7 +16,7 @@ My name is Rodion Kolovanov. I am a 3rd-year student of Applied Mathematics and 
 - R (Statistical analysis)
 - Microcontrollers (Arduino, Raspberry Pi, Intel Edison)
 - MASM (DosOS)
-- Git, GitLab, JIRA, Jenkins, SonarQube, DokuWiki
+- Git, GitHub, GitLab, GitActions, JIRA, Jenkins, SonarQube, DokuWiki
 
 ### Currently working on
 

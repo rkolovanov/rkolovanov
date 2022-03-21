@@ -19,6 +19,20 @@ My name is Rodion Kolovanov. I am a 3rd-year student of Applied Mathematics and 
 - Docker, VirtualBox, Wireshark
 - Git, GitHub, GitLab, GitActions, JIRA, Jenkins, SonarQube, DokuWiki
 
+<details>
+  <summary>GitHub Stats</summary>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=rkolovanov&show_icons=true&hide_border=true&theme=github_dark"/>
+  </p>
+</details>
+
+<details>
+  <summary>Top Languages</summary>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rkolovanov&layout=compact&hide=jupyter%20notebook&theme=github_dark&langs_count=6"/>      
+  </p>
+</details>
+
 ### Currently working on
 
 - C++ / Qt 5 Projects
@@ -45,6 +59,3 @@ My name is Rodion Kolovanov. I am a 3rd-year student of Applied Mathematics and 
 Email: rodion.kolovanov@inbox.ru
 
 Tel: +7 (995) 233-41-75
-
-![Jeets github stats](https://github-readme-stats.vercel.app/api?username=rkolovanov&show_icons=true&hide_border=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rkolovanov&layout=compact&hide=jupyter%20notebook&theme=github_dark)

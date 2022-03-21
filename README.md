@@ -47,4 +47,4 @@ Email: rodion.kolovanov@inbox.ru
 Tel: +7 (995) 233-41-75
 
 ![Jeets github stats](https://github-readme-stats.vercel.app/api?username=rkolovanov&show_icons=true&hide_border=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rkolovanov&layout=compact&hide=jupyter&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rkolovanov&layout=compact&hide=jupyter%20notebook&theme=github_dark)

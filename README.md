@@ -37,17 +37,17 @@ My name is Rodion Kolovanov. I am a 3rd-year student of Applied Mathematics and 
 
 - C++ / Qt 5 Projects
 - Python Projects
-- Unreal Engine 4 Projects
+- Unreal Engine 5 Projects
 
 ### Currently learning
 
 - Qt 5
+- Unreal Engine 5
 - GoogleProtobuf
 - CMake
 - Docker
 - GitActions
 - Python github package
-- Unreal Engine 4
 
 ### I'm looking to collaborate with
 

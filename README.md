@@ -5,8 +5,8 @@ My name is Rodion Kolovanov. I am a 3rd-year student of Applied Mathematics and 
 ### Worked with
 
 - С++/C (STL, Boost, Qt, SFML, MPI, Qpid, ZeroMQ, GoogleTest, GoogleProtobuf, CMake)
-- Unreal Engine 4 (Blueprints, C++)
-- Python (NumPy, SumPy, SageMath, MatPlotLib, github, Bot APIs and other)
+- Unreal Engine 4 (Blueprints, C++), RPG Maker, Clickteam Fusion
+- Python (NumPy, SumPy, SageMath, MatPlotLib, github, VK API, Discord API)
 - Jupiter Notebook (Markdown, LaTeX)
 - Java (Gradle, Maven, JavaFX)
 - HTML, Pug, CSS, LESS (W3.CSS)
@@ -37,17 +37,12 @@ My name is Rodion Kolovanov. I am a 3rd-year student of Applied Mathematics and 
 
 - C++ / Qt 5 Projects
 - Python Projects
-- Unreal Engine 5 Projects
+- Unreal Engine 4/5 Projects
 
 ### Currently learning
 
-- Qt 5
-- Unreal Engine 5
-- GoogleProtobuf
-- CMake
-- Docker
-- GitActions
-- Python github package
+- Unreal Engine 4/5
+- Discord API (python)
 
 ### I'm looking to collaborate with
 

@@ -25,6 +25,12 @@ My name is Rodion Kolovanov. I am a 4th-year student of Applied Mathematics and 
 - Microcontrollers (Arduino, Raspberry Pi, Intel Edison)
 - OS (Windows, Fedora, Ubuntu, Astra)
 
+### Currently working on
+
+- C++ / Qt 5 Projects
+- Python Projects
+- Unreal Engine 4 and 5 Projects
+
 <details>
   <summary>GitHub Stats</summary>
   <p align="center">
@@ -38,22 +44,6 @@ My name is Rodion Kolovanov. I am a 4th-year student of Applied Mathematics and 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rkolovanov&layout=compact&hide=jupyter%20notebook&theme=github_dark&langs_count=6"/>      
   </p>
 </details>
-
-### Currently working on
-
-- C++ / Qt 5 Projects
-- Python Projects
-- Unreal Engine 4 and 5 Projects
-
-### Currently learning
-
-- Unreal Engine 4 and 5
-- Boost.ASIO
-
-### I'm looking to collaborate with
-
-- @u5ele55
-- @CmmSheparD
 
 ### How to reach me
 

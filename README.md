@@ -1,23 +1,29 @@
 ### About me
 
-My name is Rodion Kolovanov. I am a 3rd-year student of Applied Mathematics and Computer Science at the Saint Petersburg Electrotechnical University. I work in the JSC "Research & Engineering Center ETU" as Junior Programmer.
+My name is Rodion Kolovanov. I am a 4th-year student of Applied Mathematics and Computer Science at the Saint Petersburg Electrotechnical University. I work in the JSC "Research & Engineering Center ETU" as Junior Programmer.
 
 ### Worked with
 
-- С++/C (STL, Boost, Qt, SFML, MPI, Qpid, ZeroMQ, GoogleTest, GoogleProtobuf, CMake)
-- Unreal Engine 4 (Blueprints, C++), RPG Maker, Clickteam Fusion
-- Python (NumPy, SumPy, SageMath, MatPlotLib, github, VK API, Discord API)
-- Jupiter Notebook (Markdown, LaTeX)
-- Java (Gradle, Maven, JavaFX)
-- HTML, Pug, CSS, LESS (W3.CSS)
+- С++ (STL, Boost, Qt 5, SFML, Qpid, ZeroMQ, GoogleTest, GoogleProtobuf)
+- C (C standart library, libpng, MPI)
+- Java (JavaFX)
+- Python (NumPy, SumPy, MatPlotLib, github API, VK API, Discord API)
+- R
+- HTML, Pug
+- CSS, LESS (W3.CSS)
 - JavaScript, TypeScript (jQuery, jQuery UI, SocketIO, NodeJS, Express, PassportJS, Mocha, WebPack, GULP, Angular, React, ImmunableJS, Redux, MaterialUI)
-- PHP, MySQL
-- Protocols (ARP, IPv4, TCP, AMQP, HTTP)
-- R (Statistical analysis)
-- Microcontrollers (Arduino, Raspberry Pi, Intel Edison)
+- PHP (RedBeanPHP)
+- SQL (MySQL)
 - MASM (DosOS)
-- Docker, VirtualBox, Wireshark
+- Unreal Engine 4 and 5 (Blueprints and C++), RPG Maker, Clickteam Fusion
+- Build Systems (Make, CMake, CPack, CTest, Maven, Gradle)
 - Git, GitHub, GitLab, GitActions, JIRA, Jenkins, SonarQube, DokuWiki
+- Docker, VirtualBox, Wireshark, Blender
+- SageMath
+- Jupiter Notebook (Markdown, LaTeX)
+- Protocols (ARP, ICMP, IPv4, TCP, UDP, AMQP, HTTP)
+- Microcontrollers (Arduino, Raspberry Pi, Intel Edison)
+- OS (Windows, Fedora, Ubuntu, Astra)
 
 <details>
   <summary>GitHub Stats</summary>
@@ -37,12 +43,12 @@ My name is Rodion Kolovanov. I am a 3rd-year student of Applied Mathematics and 
 
 - C++ / Qt 5 Projects
 - Python Projects
-- Unreal Engine 4/5 Projects
+- Unreal Engine 4 and 5 Projects
 
 ### Currently learning
 
-- Unreal Engine 4/5
-- Discord API (python)
+- Unreal Engine 4 and 5
+- Boost.ASIO
 
 ### I'm looking to collaborate with
 
@@ -53,4 +59,4 @@ My name is Rodion Kolovanov. I am a 3rd-year student of Applied Mathematics and 
 
 Email: rodion.kolovanov@inbox.ru
 
-Tel: +7 (995) 233-41-75
+Tel: +7 (995) 233-41-75, +7 (902) 772-41-75

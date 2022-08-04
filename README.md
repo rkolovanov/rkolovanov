@@ -4,7 +4,7 @@ My name is Rodion Kolovanov. I am a 4th-year student of Applied Mathematics and 
 
 ### Worked with
 
-- С++ (STL, Boost, Qt 5, SFML, Qpid, ZeroMQ, GoogleTest, GoogleProtobuf)
+- С++ (STL, Boost, Qt 5, SFML, Qpid, ZeroMQ, ActiveMQ, GoogleTest, GoogleProtobuf)
 - C (C standart library, libpng, MPI)
 - Java (JavaFX)
 - Python (NumPy, SumPy, MatPlotLib, github API, VK API, Discord API)

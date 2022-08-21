@@ -23,7 +23,7 @@ My name is Rodion Kolovanov. I am a 4th-year student of Applied Mathematics and 
 - Jupiter Notebook (Markdown, LaTeX)
 - Protocols (ARP, ICMP, IPv4, TCP, UDP, AMQP, HTTP)
 - Microcontrollers (Arduino, Raspberry Pi, Intel Edison)
-- OS (Windows, Fedora, Ubuntu, Astra)
+- OS (Windows, Fedora, Ubuntu, Astra, МСВС)
 
 ### Currently working on
 

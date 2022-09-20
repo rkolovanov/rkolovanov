@@ -15,7 +15,7 @@ I am a 4th-year student of Applied Mathematics and Computer Science at the Saint
 - PHP (RedBeanPHP)
 - SQL (MySQL)
 - MASM (DosOS)
-- Unreal Engine 4 and 5 (Blueprints and C++, SunPositionCalculator, Datasmith, Georeferencing)
+- Unreal Engine 4 and 5 (Blueprints and C++, Datasmith Runtime, Georeferencing, RuntimeAudioImporter, SunPositionCalculator)
 - GameMaker, RPG Maker, Clickteam Fusion
 - Build Systems (Make, CMake, CPack, CTest, Maven, Gradle)
 - Git, GitHub, GitLab, GitActions, JIRA, Jenkins, SonarQube, DokuWiki

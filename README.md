@@ -33,13 +33,6 @@ I am a 4th-year student of Applied Mathematics and Computer Science at the Saint
 - C++ and SFML Projects
 - Unreal Engine 4 Projects
 
-### GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=rkolovanov&show_icons=true&hide_border=true&count_private=true&theme=github_dark"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rkolovanov&layout=compact&hide=jupyter%20notebook&theme=github_dark&langs_count=8"/>      
-</p>
-
 ### How to contact me
 
 - Telegram: [@rkolovanov](https://t.me/rkolovanov)

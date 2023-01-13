@@ -14,19 +14,19 @@ I am a 4th-year student of Applied Mathematics and Computer Science at the Saint
 - JavaScript, TypeScript (jQuery, jQuery UI, SocketIO, NodeJS, Express, PassportJS, Mocha, WebPack, GULP, Angular, React, ImmunableJS, Redux, MaterialUI)
 - PHP (RedBeanPHP)
 - SQL (MySQL)
-- MASM (DosOS)
-- Unreal Engine 4 and 5 (Blueprints and C++, Datasmith Runtime, Georeferencing, RuntimeAudioImporter, SunPositionCalculator)
+- MASM on DOS
+- Unreal Engine 4 and 5 (Blueprints and C++, DatasmithRuntime, Georeferencing)
 - GameMaker, RPG Maker, Clickteam Fusion
-- Build Systems (Make, CMake, CPack, CTest, Maven, Gradle)
+- Build Systems: Make, CMake, CPack, CTest, Maven, Gradle
 - Git, GitHub, GitLab, GitActions, JIRA, Jenkins, SonarQube, DokuWiki, Nexus
 - Docker, VirtualBox
 - Wireshark, Blender
 - Jupiter Notebook
 - SageMath
 - Markdown, LaTeX
-- Protocols (ARP, ICMP, IPv4, TCP, UDP, AMQP, HTTP)
-- Microcontrollers (Arduino, Raspberry Pi, Intel Edison)
-- OS (Windows, Fedora, Ubuntu, Astra, МСВС)
+- Protocols: ARP, ICMP, IPv4, TCP, UDP, AMQP, HTTP
+- Microcontrollers: Arduino, Raspberry Pi, Intel Edison
+- OS: Windows, Fedora, Ubuntu, Astra, МСВС
 
 ### Currently working on
 

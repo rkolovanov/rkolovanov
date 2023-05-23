@@ -15,7 +15,7 @@ I am a 4th-year student of Applied Mathematics and Computer Science at the Saint
 - PHP (RedBeanPHP)
 - SQL (MySQL)
 - MASM on DOS
-- Unreal Engine 4 and 5 (Blueprints and C++, DatasmithRuntime, Georeferencing)
+- Unreal Engine 4 and 5 (Blueprints and C++, DatasmithRuntime, GeoReferencing, Water)
 - GameMaker, RPG Maker, Clickteam Fusion
 - Build Systems: Make, CMake, CPack, CTest, Maven, Gradle
 - Git, GitHub, GitLab, GitActions, JIRA, Jenkins, SonarQube, DokuWiki, Nexus
@@ -25,7 +25,7 @@ I am a 4th-year student of Applied Mathematics and Computer Science at the Saint
 - SageMath
 - Markdown, LaTeX
 - Protocols: ARP, ICMP, IPv4, TCP, UDP, AMQP, HTTP
-- Microcontrollers: Arduino, Raspberry Pi, Intel Edison
+- Microcontrollers: Arduino Uno, Raspberry Pi 3, Intel Edison, NodeMCU v3 ESP8266
 - OS: Windows, Fedora, Ubuntu, Astra, МСВС
 
 ### Currently working on

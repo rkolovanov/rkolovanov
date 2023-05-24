@@ -21,7 +21,7 @@ Favorite programming languages: C++ and Python.
 - Mark-up Languages: Markdown, LaTeX, XML, HTML (Pug), CSS (LESS, W3.CSS)
 - Assembler Languages: MASM
 - Game Engines: Unreal Engine 4 and 5 (Blueprints and C++, DatasmithRuntime, GeoReferencing, Water), GameMaker, RPG Maker, Clickteam Fusion
-- Build Systems: Make, CMake, CPack, CTest, Maven, Gradle
+- Build Systems: Make, CMake, CPack, CTest, Maven
 
 #### Software
 

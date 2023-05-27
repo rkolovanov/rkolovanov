@@ -38,6 +38,7 @@ Favorite programming languages: C++ and Python.
 
 #### Hardware
 
+- Architectures: x86-64
 - Microcontrollers: Arduino Uno, Raspberry Pi 3, Intel Edison, NodeMCU v3 ESP8266
 
 

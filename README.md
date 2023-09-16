@@ -16,6 +16,7 @@ Favorite programming languages: C++ and Python.
 - Java (JavaFX)
 - JavaScript, TypeScript (jQuery, jQuery UI, SocketIO, NodeJS, Express, PassportJS, Mocha, WebPack, GULP, Angular, React, ImmunableJS, Redux, MaterialUI)
 - R
+- Promela
 - PHP (RedBeanPHP)
 - SQL (MySQL, PostgreSQL)
 - Mark-up Languages: Markdown, LaTeX, XML, HTML (Pug), CSS (LESS, W3.CSS)

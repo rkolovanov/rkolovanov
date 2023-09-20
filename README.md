@@ -27,7 +27,7 @@ Favorite programming languages: C++ and Python.
 
 #### Software
 
-- OS: Fedora, Ubuntu, Windows, Astra, МСВС, DOS
+- OS: Fedora, Ubuntu, Windows, Astra, МСВС, DOS, Raspberry Pi OS
 - Protocols: ARP, ICMP, IPv4, TCP, UDP, AMQP, HTTP, REST API
 - IDE: CLion, PyCharm, Rider, WebStorm, IntelliJ IDEA, DataGrip, Visual Studio, Visual Studio Code
 - Math: SageMath

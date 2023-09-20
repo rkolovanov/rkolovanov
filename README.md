@@ -14,11 +14,12 @@ Favorite programming languages: C++ and Python.
 - C (C standart library, libpng, MPI)
 - Python (NumPy, SumPy, SciPy, SkLearn, Mlextend, MatPlotLib, Flask, GitHub API, VK API, Telegram API, Discord API)
 - Java (JavaFX)
-- JavaScript, TypeScript (jQuery, jQuery UI, SocketIO, NodeJS, Express, PassportJS, Mocha, WebPack, GULP, Angular, React, ImmunableJS, Redux, MaterialUI)
+- JavaScript, TypeScript (WebGL, jQuery, jQuery UI, SocketIO, NodeJS, Express, PassportJS, Mocha, WebPack, GULP, Angular, React, ImmunableJS, Redux, MaterialUI)
 - R
 - Promela
 - PHP (RedBeanPHP)
 - SQL (MySQL, PostgreSQL)
+- Shader languages: GLSL
 - Mark-up Languages: Markdown, LaTeX, XML, HTML (Pug), CSS (LESS, W3.CSS)
 - Assembler Languages: MASM
 - Game Engines: Unreal Engine 4 and 5 (Blueprints and C++, DatasmithRuntime, GeoReferencing, Water), GameMaker, RPG Maker, Clickteam Fusion

@@ -3,8 +3,8 @@
 I am a masters's degree graduate of Software Engineering at the Saint Petersburg Electrotechnical University.
 I work in the JSC "Research & Engineering Center ETU" as Middle Programmer.
 I am fond of developing programs for computer modeling, computer games and IoT devices.
-Favorite programming languages: C++ and Python."
-Favorite 3D engine: Unreal Engine
+Favorite programming languages: C++ and Python.
+Favorite 3D engine: Unreal Engine.
 
 ### Worked with
 

@@ -1,10 +1,10 @@
 ### About me
 
-I am a bachelor's degree graduate of Applied Mathematics and Computer Science at the Saint Petersburg Electrotechnical University.
-I work in the JSC "Research & Engineering Center ETU" as Junior Programmer.
-I am fond of developing Internet of Things devices, programs for automating something and computer games.
-Favorite programming languages: C++ and Python.
-
+I am a masters's degree graduate of Software Engineering at the Saint Petersburg Electrotechnical University.
+I work in the JSC "Research & Engineering Center ETU" as Middle Programmer.
+I am fond of developing programs for computer modeling, computer games and IoT devices.
+Favorite programming languages: C++ and Python."
+Favorite 3D engine: Unreal Engine
 
 ### Worked with
 

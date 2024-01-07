@@ -46,7 +46,7 @@ Favorite 3D engine: Unreal Engine.
 
 ### Currently working on
 
-- C++ and SFML Projects
+- C++ and Qt5 Projects
 - Unreal Engine 4 Projects
 
 

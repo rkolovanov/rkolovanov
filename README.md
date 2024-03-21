@@ -1,6 +1,6 @@
 ### About me
 
-I am a masters's degree graduate of Software Engineering at the Saint Petersburg Electrotechnical University.
+I am a bachelor's degree graduate of Software Engineering at the Saint Petersburg Electrotechnical University. I am currently studying for a master's degree.
 I work in the JSC "Research & Engineering Center ETU" as Middle Programmer.
 I am fond of developing programs for computer modeling, computer games and IoT devices.
 Favorite programming languages: C++ and Python.

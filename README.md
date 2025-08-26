@@ -35,7 +35,7 @@ Favorite 3D engine: Unreal Engine.
 - Network: Wireshark
 - 3D: Blender
 - Audio: FL Studio, Audacity
-- Video: Vegas Pro
+- Video: Sony Vegas
 - Other: Git, GitHub, GitLab, GitActions, JIRA, Jenkins, SonarQube, DokuWiki, Nexus, Anaconda, Jupiter Notebook
 
 #### Hardware
